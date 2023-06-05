@@ -1,5 +1,8 @@
 = Cassandra example with Spring Boot =
 
+This is a simple example with Spring Data and Cassandra with Docker. If you want more information you can take a look here:
+https://refactorizando.com/en/example-spring-data-with-cassandra-docker/
+
 == How does it work? ==
 
 This is a simple example with Cassandra. This project use CassandraRepository
